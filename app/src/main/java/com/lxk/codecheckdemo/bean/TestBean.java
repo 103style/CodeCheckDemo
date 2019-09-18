@@ -1,4 +1,4 @@
-package com.lxk.classloaddemo.bean;
+package com.lxk.codecheckdemo.bean;
 
 /**
  * @author https://github.com/103style

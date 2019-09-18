@@ -1,8 +1,8 @@
-package com.lxk.classloaddemo.utils;
+package com.lxk.codecheckdemo.utils;
 
 import android.util.Log;
 
-import com.lxk.classloaddemo.BuildConfig;
+import com.lxk.codecheckdemo.BuildConfig;
 
 /**
  * @author https://github.com/103style

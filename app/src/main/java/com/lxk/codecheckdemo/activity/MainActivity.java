@@ -1,13 +1,13 @@
-package com.lxk.classloaddemo.activity;
+package com.lxk.codecheckdemo.activity;
 
 import android.os.Bundle;
 
 import androidx.appcompat.app.AlertDialog;
 import androidx.appcompat.app.AppCompatActivity;
 
-import com.lxk.classloaddemo.R;
-import com.lxk.classloaddemo.utils.CodeCheckUtils;
-import com.lxk.classloaddemo.utils.LogUtils;
+import com.lxk.codecheckdemo.R;
+import com.lxk.codecheckdemo.utils.CodeCheckUtils;
+import com.lxk.codecheckdemo.utils.LogUtils;
 
 import java.util.ArrayList;
 import java.util.List;

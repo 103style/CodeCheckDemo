@@ -1,4 +1,4 @@
-package com.lxk.classloaddemo.adapter;
+package com.lxk.codecheckdemo.adapter;
 
 /**
  * @author https://github.com/103style
